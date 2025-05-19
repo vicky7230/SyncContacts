@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">SyncContacts</string>
+    <string name="title_activity_sync">SyncActivity</string>
+    <string name="title_activity_add_contact">AddContactActivity</string>
+    <string name="title_activity_edit_contact">EditContactActivity</string>
+</resources>
